@@ -1,0 +1,1204 @@
+[INFO] [2024-03-27 23:17:23,244] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-27 23:24:56,536] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[WARNING] [2024-03-27 23:25:00,538] [fn: log.log_response-241] Not Found: /
+[WARNING] [2024-03-27 23:25:00,539] [fn: basehttp.log_message-212] "GET / HTTP/1.1" 404 2599
+[WARNING] [2024-03-27 23:25:02,084] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-27 23:25:02,084] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 2650
+[INFO] [2024-03-28 00:20:35,131] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:27:03,235] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[WARNING] [2024-03-28 00:27:07,777] [fn: log.log_response-241] Not Found: /
+[WARNING] [2024-03-28 00:27:07,779] [fn: basehttp.log_message-212] "GET / HTTP/1.1" 404 2791
+[WARNING] [2024-03-28 00:27:15,432] [fn: log.log_response-241] Not Found: /duration/calculate
+[WARNING] [2024-03-28 00:27:15,432] [fn: basehttp.log_message-212] "GET /duration/calculate?src=A&dest=B HTTP/1.1" 404 2880
+[ERROR] [2024-03-28 00:27:27,453] [fn: log.log_response-241] Internal Server Error: /duration
+[ERROR] [2024-03-28 00:27:27,453] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=B HTTP/1.1" 500 55
+[INFO] [2024-03-28 00:27:40,625] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\citycabbie_backend\settings.py changed, reloading.
+[INFO] [2024-03-28 00:27:41,231] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:27:44,987] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\citycabbie_backend\settings.py changed, reloading.
+[INFO] [2024-03-28 00:27:45,601] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:27:47,135] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\citycabbie_backend\settings.py changed, reloading.
+[INFO] [2024-03-28 00:27:47,751] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:27:54,667] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\citycabbie_backend\settings.py changed, reloading.
+[INFO] [2024-03-28 00:27:55,269] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:27:59,015] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\citycabbie_backend\settings.py changed, reloading.
+[INFO] [2024-03-28 00:29:53,469] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 00:29:58,759] [fn: log.log_response-241] Internal Server Error: /duration
+[ERROR] [2024-03-28 00:29:58,774] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=B HTTP/1.1" 500 55
+[ERROR] [2024-03-28 00:30:00,645] [fn: log.log_response-241] Internal Server Error: /duration
+[ERROR] [2024-03-28 00:30:00,645] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=B HTTP/1.1" 500 55
+[INFO] [2024-03-28 00:31:42,522] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\citycabbie_backend\settings.py changed, reloading.
+[INFO] [2024-03-28 00:31:43,138] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:31:45,912] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\citycabbie_backend\settings.py changed, reloading.
+[INFO] [2024-03-28 00:31:46,514] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:32:00,498] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\citycabbie_backend\settings.py changed, reloading.
+[INFO] [2024-03-28 00:32:01,077] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:32:03,799] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\citycabbie_backend\settings.py changed, reloading.
+[INFO] [2024-03-28 00:32:04,476] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:32:07,041] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\citycabbie_backend\settings.py changed, reloading.
+[INFO] [2024-03-28 00:32:07,716] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:32:19,193] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\citycabbie_backend\settings.py changed, reloading.
+[INFO] [2024-03-28 00:32:19,798] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:32:30,149] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 00:32:35,061] [fn: log.log_response-241] Internal Server Error: /duration
+[ERROR] [2024-03-28 00:32:35,061] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=B HTTP/1.1" 500 55
+[ERROR] [2024-03-28 00:32:37,164] [fn: log.log_response-241] Internal Server Error: /duration
+[ERROR] [2024-03-28 00:32:37,164] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=B HTTP/1.1" 500 55
+[INFO] [2024-03-28 00:40:20,000] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 00:40:29,326] [fn: log.log_response-241] Internal Server Error: /duration
+[ERROR] [2024-03-28 00:40:29,326] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=B HTTP/1.1" 500 111
+[INFO] [2024-03-28 00:41:15,154] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\citycabbie_backend\settings.py changed, reloading.
+[INFO] [2024-03-28 00:41:15,820] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:41:18,633] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:41:24,955] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=B HTTP/1.1" 200 38
+[INFO] [2024-03-28 00:41:32,669] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=C HTTP/1.1" 200 38
+[INFO] [2024-03-28 00:41:34,710] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=C HTTP/1.1" 200 38
+[INFO] [2024-03-28 00:41:36,182] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=C HTTP/1.1" 200 38
+[INFO] [2024-03-28 00:41:43,228] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=F HTTP/1.1" 200 39
+[INFO] [2024-03-28 00:41:45,787] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=F HTTP/1.1" 200 39
+[INFO] [2024-03-28 00:41:47,573] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=F HTTP/1.1" 200 39
+[INFO] [2024-03-28 00:43:05,590] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=F HTTP/1.1" 200 39
+[WARNING] [2024-03-28 00:43:07,543] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 00:43:07,554] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 2842
+[INFO] [2024-03-28 00:43:11,039] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=F HTTP/1.1" 200 39
+[WARNING] [2024-03-28 00:43:12,112] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 00:43:12,114] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 2842
+[INFO] [2024-03-28 00:43:50,023] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 00:43:50,712] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:44:00,783] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 00:44:01,397] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:46:25,600] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 00:46:26,183] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:46:28,007] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 00:46:28,937] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:46:30,689] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 00:46:31,389] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:46:32,733] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 00:46:33,257] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:46:35,814] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 00:46:36,389] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:46:41,019] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 00:46:41,577] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 00:49:05,884] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 00:49:06,566] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 01:29:29,195] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 01:29:54,965] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\urls.py changed, reloading.
+[INFO] [2024-03-28 01:29:55,518] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 01:29:58,285] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\urls.py changed, reloading.
+[INFO] [2024-03-28 01:29:58,836] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 01:30:01,581] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\urls.py changed, reloading.
+[INFO] [2024-03-28 01:30:02,350] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 01:46:51,822] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 01:47:24,225] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[WARNING] [2024-03-28 01:47:30,034] [fn: log.log_response-241] Not Found: /
+[WARNING] [2024-03-28 01:47:30,035] [fn: basehttp.log_message-212] "GET / HTTP/1.1" 404 2959
+[WARNING] [2024-03-28 01:47:32,037] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 01:47:32,037] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 01:49:04,793] [fn: basehttp.log_message-212] code 400, message Bad request syntax ('\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x031dÞkÉ\x17iÌ\x9a¿Z~ïgl\x06èl/\x97Î·\x05Ã#ÖÜÂ\x01àN')
+[ERROR] [2024-03-28 01:49:04,793] [fn: basehttp.log_message-192] You're accessing the development server over HTTPS, but it only supports HTTP.
+[INFO] [2024-03-28 01:49:28,179] [fn: basehttp.log_message-212] code 400, message Bad request version ('À\x13À')
+[ERROR] [2024-03-28 01:49:28,179] [fn: basehttp.log_message-192] You're accessing the development server over HTTPS, but it only supports HTTP.
+[INFO] [2024-03-28 01:49:29,331] [fn: basehttp.log_message-212] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x03þ$¤ÔµU\x05?\x98»&o0°YÁÁ\x80')
+[ERROR] [2024-03-28 01:49:29,331] [fn: basehttp.log_message-192] You're accessing the development server over HTTPS, but it only supports HTTP.
+[INFO] [2024-03-28 01:49:46,450] [fn: basehttp.log_message-212] code 400, message Bad request version ('À\x13À')
+[ERROR] [2024-03-28 01:49:46,450] [fn: basehttp.log_message-192] You're accessing the development server over HTTPS, but it only supports HTTP.
+[INFO] [2024-03-28 01:49:52,917] [fn: basehttp.log_message-212] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x03O+\x8d£Ûv_j?WtåöµB\x8b%sv1`ÊUX0')
+[ERROR] [2024-03-28 01:49:52,917] [fn: basehttp.log_message-192] You're accessing the development server over HTTPS, but it only supports HTTP.
+[INFO] [2024-03-28 01:50:23,251] [fn: basehttp.log_message-212] code 400, message Bad request version ('úú\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01¿êê\x00\x00\x00-\x00\x02\x01\x01\x00')
+[INFO] [2024-03-28 01:50:23,251] [fn: basehttp.log_message-212] code 400, message Bad request version ('WÑ¼\xadÛ+Zú\x9bëº\x98')
+[ERROR] [2024-03-28 01:50:23,251] [fn: basehttp.log_message-192] You're accessing the development server over HTTPS, but it only supports HTTP.
+[ERROR] [2024-03-28 01:50:23,251] [fn: basehttp.log_message-192] You're accessing the development server over HTTPS, but it only supports HTTP.
+[INFO] [2024-03-28 01:50:23,521] [fn: basehttp.log_message-212] code 400, message Bad request version ('localhost\x00')
+[ERROR] [2024-03-28 01:50:23,522] [fn: basehttp.log_message-192] You're accessing the development server over HTTPS, but it only supports HTTP.
+[INFO] [2024-03-28 01:50:23,583] [fn: basehttp.log_message-212] code 400, message Bad request version ('\x17HÓ¢¸C`')
+[INFO] [2024-03-28 01:50:23,583] [fn: basehttp.log_message-212] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00+\x00\x07\x06')
+[ERROR] [2024-03-28 01:50:23,584] [fn: basehttp.log_message-192] You're accessing the development server over HTTPS, but it only supports HTTP.
+[ERROR] [2024-03-28 01:50:23,584] [fn: basehttp.log_message-192] You're accessing the development server over HTTPS, but it only supports HTTP.
+[INFO] [2024-03-28 01:50:23,862] [fn: basehttp.log_message-212] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+[ERROR] [2024-03-28 01:50:23,862] [fn: basehttp.log_message-192] You're accessing the development server over HTTPS, but it only supports HTTP.
+[ERROR] [2024-03-28 01:50:29,883] [fn: log.log_response-241] Internal Server Error: /availability
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 138, in is_available
+    cab = Cab.objects.get(name=cab_name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\db\models\query.py", line 649, in get
+    raise self.model.DoesNotExist(
+BookingApi.models.Cab.DoesNotExist: Cab matching query does not exist.
+[ERROR] [2024-03-28 01:50:29,883] [fn: basehttp.log_message-212] "GET /availability?cab_name=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:00:00&duration=30 HTTP/1.1" 500 92201
+[WARNING] [2024-03-28 01:50:32,030] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 01:50:32,030] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 01:56:41,429] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 01:56:44,331] [fn: log.log_response-241] Internal Server Error: /cabs
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+       ^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+[ERROR] [2024-03-28 01:56:44,347] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 500 80897
+[WARNING] [2024-03-28 01:56:46,398] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 01:56:46,398] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 01:58:10,477] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 01:58:11,065] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 01:58:15,997] [fn: log.log_response-241] Internal Server Error: /cabs
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+       ^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+[ERROR] [2024-03-28 01:58:15,997] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 500 80897
+[WARNING] [2024-03-28 01:58:16,850] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 01:58:16,850] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 01:58:29,235] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 01:58:29,842] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 01:58:33,740] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 01:58:34,336] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 01:58:43,089] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 01:58:43,676] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 01:58:55,893] [fn: log.log_response-241] Internal Server Error: /cabs
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 114, in get_all_cabs
+    return serializers.serialize('json', cabs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\serializers\__init__.py", line 134, in serialize
+    s.serialize(queryset, **options)
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\serializers\base.py", line 113, in serialize
+    concrete_model = obj._meta.concrete_model
+                     ^^^^^^^^^
+AttributeError: 'tuple' object has no attribute '_meta'
+[ERROR] [2024-03-28 01:58:55,893] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 500 91414
+[WARNING] [2024-03-28 01:58:56,708] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 01:58:56,708] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 01:59:12,034] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 01:59:12,709] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 01:59:15,794] [fn: log.log_response-241] Internal Server Error: /cabs
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 115, in get_all_cabs
+    return serializers.serialize('json', cabs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\serializers\__init__.py", line 134, in serialize
+    s.serialize(queryset, **options)
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\serializers\base.py", line 113, in serialize
+    concrete_model = obj._meta.concrete_model
+                     ^^^^^^^^^
+AttributeError: 'tuple' object has no attribute '_meta'
+[ERROR] [2024-03-28 01:59:15,794] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 500 91423
+[WARNING] [2024-03-28 01:59:16,556] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 01:59:16,556] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:06:32,839] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:06:40,584] [fn: log.log_response-241] Internal Server Error: /cabs
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 115, in get_all_cabs
+    return CabsSerializer(cabs, many=True).data
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 795, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 713, in to_representation
+    return [
+           ^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 714, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 523, in to_representation
+    for field in fields:
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 384, in _readable_fields
+    for field in self.fields.values():
+                 ^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 372, in fields
+    for key, value in self.get_fields().items():
+                      ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 1054, in get_fields
+    assert hasattr(self, 'Meta'), (
+AssertionError: Class CabsSerializer missing "Meta" attribute
+[ERROR] [2024-03-28 02:06:40,584] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 500 117363
+[WARNING] [2024-03-28 02:06:42,682] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:06:42,682] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:07:28,262] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\serializers.py changed, reloading.
+[INFO] [2024-03-28 02:07:28,881] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:07:33,499] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\serializers.py changed, reloading.
+[INFO] [2024-03-28 02:07:34,199] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:07:37,512] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\serializers.py changed, reloading.
+[INFO] [2024-03-28 02:07:38,259] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:07:44,995] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\serializers.py changed, reloading.
+[INFO] [2024-03-28 02:07:45,629] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:07:47,295] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\serializers.py changed, reloading.
+[INFO] [2024-03-28 02:07:47,961] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:07:54,569] [fn: log.log_response-241] Internal Server Error: /cabs
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\fields.py", line 439, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\fields.py", line 106, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'id'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 115, in get_all_cabs
+    return CabsSerializer(cabs, many=True).data
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 795, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 713, in to_representation
+    return [
+           ^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 714, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 525, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\fields.py", line 472, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `id` on serializer `CabsSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `tuple` instance.
+Original exception text was: 'tuple' object has no attribute 'id'.
+[ERROR] [2024-03-28 02:07:54,569] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 500 116758
+[WARNING] [2024-03-28 02:07:55,391] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:07:55,391] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:08:12,956] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\serializers.py changed, reloading.
+[INFO] [2024-03-28 02:08:13,662] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:08:15,445] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\serializers.py changed, reloading.
+[INFO] [2024-03-28 02:08:16,068] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:08:18,801] [fn: log.log_response-241] Internal Server Error: /cabs
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\fields.py", line 439, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\fields.py", line 106, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 115, in get_all_cabs
+    return CabsSerializer(cabs, many=True).data
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 795, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 713, in to_representation
+    return [
+           ^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 714, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 525, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\fields.py", line 472, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `name` on serializer `CabsSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `tuple` instance.
+Original exception text was: 'tuple' object has no attribute 'name'.
+[ERROR] [2024-03-28 02:08:18,805] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 500 116703
+[WARNING] [2024-03-28 02:08:19,569] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:08:19,569] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:08:45,411] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:08:46,183] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:08:47,982] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:08:48,582] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:08:51,405] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:08:51,970] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:08:55,980] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:08:56,618] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:09:04,335] [fn: log.log_response-241] Internal Server Error: /cabs
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+       ^^^^^^^^^^^^
+AttributeError: 'CabsSerializer' object has no attribute 'get'
+[ERROR] [2024-03-28 02:09:04,335] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 500 80871
+[WARNING] [2024-03-28 02:09:06,385] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:09:06,385] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:09:28,000] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:09:28,827] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:09:31,697] [fn: log.log_response-241] Internal Server Error: /cabs
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\fields.py", line 439, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\fields.py", line 106, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 115, in get_all_cabs
+    return CabsSerializer(cabs, many=True).data
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 795, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 713, in to_representation
+    return [
+           ^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 714, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 525, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\fields.py", line 472, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `name` on serializer `CabsSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `tuple` instance.
+Original exception text was: 'tuple' object has no attribute 'name'.
+[ERROR] [2024-03-28 02:09:31,702] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 500 116703
+[WARNING] [2024-03-28 02:09:35,046] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:09:35,046] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:10:06,712] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\serializers.py changed, reloading.
+[INFO] [2024-03-28 02:10:07,426] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:10:15,094] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:10:15,826] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:10:19,303] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:10:19,892] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:10:23,342] [fn: log.log_response-241] Internal Server Error: /cabs
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\fields.py", line 439, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\fields.py", line 106, in get_attribute
+    instance = getattr(instance, attr)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'tuple' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 115, in get_all_cabs
+    return CabSerializer(cabs, many=True).data
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 795, in data
+    ret = super().data
+          ^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 249, in data
+    self._data = self.to_representation(self.instance)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 713, in to_representation
+    return [
+           ^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 714, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\serializers.py", line 525, in to_representation
+    attribute = field.get_attribute(instance)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\fields.py", line 472, in get_attribute
+    raise type(exc)(msg)
+AttributeError: Got AttributeError when attempting to get a value for field `name` on serializer `CabSerializer`.
+The serializer field might be named incorrectly and not match any attribute or key on the `tuple` instance.
+Original exception text was: 'tuple' object has no attribute 'name'.
+[ERROR] [2024-03-28 02:10:23,342] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 500 116688
+[WARNING] [2024-03-28 02:10:24,626] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:10:24,626] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:12:11,956] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:12:12,857] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:12:20,131] [fn: log.log_response-241] Internal Server Error: /cabs
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
+    response = self.process_response(request, response)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\middleware\clickjacking.py", line 27, in process_response
+    if response.get("X-Frame-Options") is not None:
+       ^^^^^^^^^^^^
+AttributeError: 'ReturnList' object has no attribute 'get'
+[ERROR] [2024-03-28 02:12:20,131] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 500 80693
+[WARNING] [2024-03-28 02:12:20,918] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:12:20,918] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:12:43,901] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:12:44,458] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:12:48,420] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:12:49,053] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:12:51,518] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:12:52,147] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:12:58,652] [fn: log.log_response-241] Internal Server Error: /cabs
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 115, in get_all_cabs
+    return JsonResponse(CabSerializer(cabs, many=True).data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\http\response.py", line 726, in __init__
+    raise TypeError(
+TypeError: In order to allow non-dict objects to be serialized set the safe parameter to False.
+[ERROR] [2024-03-28 02:12:58,655] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 500 86201
+[WARNING] [2024-03-28 02:12:59,375] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:12:59,375] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:13:18,155] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:13:18,773] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:13:26,071] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:13:26,681] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:13:28,343] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:13:29,038] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:13:33,009] [fn: log.log_response-241] Internal Server Error: /cabs
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\rest_framework\response.py", line 59, in rendered_content
+    assert renderer, ".accepted_renderer not set on Response"
+AssertionError: .accepted_renderer not set on Response
+[ERROR] [2024-03-28 02:13:33,009] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 500 85460
+[WARNING] [2024-03-28 02:13:33,746] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:13:33,746] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:15:11,278] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:15:11,929] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:15:15,810] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:15:16,661] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:15:22,138] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:15:22,814] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:15:24,106] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:15:24,752] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:15:35,435] [fn: log.log_response-241] Internal Server Error: /cabs
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view BookingApi.views.get_all_cabs didn't return an HttpResponse object. It returned None instead.
+[ERROR] [2024-03-28 02:15:35,450] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 500 82004
+[WARNING] [2024-03-28 02:15:37,508] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:15:37,508] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:16:03,999] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:16:04,817] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:16:10,231] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:16:10,825] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:16:13,624] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:16:14,214] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:16:15,975] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:16:16,740] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:16:23,026] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:16:23,605] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:16:25,195] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:16:25,786] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:16:27,078] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:16:27,753] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:16:31,655] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:16:32,252] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:16:36,619] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:16:37,203] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:16:38,496] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:16:39,264] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:17:02,622] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:17:08,135] [fn: basehttp.log_message-212] "GET /cabs HTTP/1.1" 200 82
+[ERROR] [2024-03-28 02:17:53,987] [fn: log.log_response-241] Internal Server Error: /availability
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 140, in is_available
+    cab = Cab.objects.get(name=cab_name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\db\models\query.py", line 649, in get
+    raise self.model.DoesNotExist(
+BookingApi.models.Cab.DoesNotExist: Cab matching query does not exist.
+[ERROR] [2024-03-28 02:17:54,002] [fn: basehttp.log_message-212] "GET /availability?cab_name=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:00:00&duration=30 HTTP/1.1" 500 92201
+[WARNING] [2024-03-28 02:17:54,995] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:17:54,995] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[ERROR] [2024-03-28 02:18:21,988] [fn: log.log_response-241] Internal Server Error: /availability
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 143, in is_available
+    next_booking_index = bookings_lower_bound(car_bookings, pickuptime + timedelta(minutes=duration))
+                                                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'module' object is not callable
+[ERROR] [2024-03-28 02:18:21,999] [fn: basehttp.log_message-212] "GET /availability?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:00:00&duration=30 HTTP/1.1" 500 82676
+[ERROR] [2024-03-28 02:18:38,783] [fn: log.log_response-241] Internal Server Error: /availability
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 143, in is_available
+    next_booking_index = bookings_lower_bound(car_bookings, pickuptime + timedelta(minutes=duration))
+                                                                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'module' object is not callable
+[ERROR] [2024-03-28 02:18:38,783] [fn: basehttp.log_message-212] "GET /availability?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:00:00&duration=30 HTTP/1.1" 500 84284
+[INFO] [2024-03-28 02:19:33,374] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:19:33,978] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:19:43,246] [fn: log.log_response-241] Internal Server Error: /availability
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 157, in is_available
+    return JsonResponse({
+                         
+TypeError: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+[ERROR] [2024-03-28 02:19:43,258] [fn: basehttp.log_message-212] "GET /availability?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:00:00&duration=30 HTTP/1.1" 500 84963
+[WARNING] [2024-03-28 02:19:43,913] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:19:43,914] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:20:59,461] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:21:00,319] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:21:06,733] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:21:07,322] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:21:12,707] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:21:13,314] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:21:15,608] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:21:16,271] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:21:18,676] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:21:19,255] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:21:37,050] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:21:37,656] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:21:43,317] [fn: log.log_response-241] Internal Server Error: /availability
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 156, in is_available
+    if next_booking_index < len(car_bookings) and pickuptime + duration + util_calculate_duration(dest, car_bookings[next_booking_index].destination.name) > car_bookings[next_booking_index].booking_time:
+                                                                                                        ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\db\models\query.py", line 431, in __getitem__
+    raise ValueError("Negative indexing is not supported.")
+ValueError: Negative indexing is not supported.
+[ERROR] [2024-03-28 02:21:43,317] [fn: basehttp.log_message-212] "GET /availability?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:00:00&duration=30 HTTP/1.1" 500 88925
+[WARNING] [2024-03-28 02:21:44,091] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:21:44,091] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:22:15,765] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:22:16,407] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:22:20,178] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:22:20,800] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:22:23,414] [fn: basehttp.log_message-212] "GET /availability?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:00:00&duration=30 HTTP/1.1" 200 21
+[INFO] [2024-03-28 02:22:37,035] [fn: basehttp.log_message-212] "GET /availability?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:01:00&duration=30 HTTP/1.1" 200 21
+[INFO] [2024-03-28 02:22:55,822] [fn: basehttp.log_message-212] "GET /availability?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T11:59:00&duration=30 HTTP/1.1" 200 21
+[ERROR] [2024-03-28 02:23:45,474] [fn: log.log_response-241] Internal Server Error: /book
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 178, in book_cab
+    booking = Booking(cab=cab, source=src, destination=dest, booking_time=pickuptime, drop_time=pickuptime + timedelta(minutes=duration), booking_fare=fare, email=email)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\db\models\base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\db\models\fields\related_descriptors.py", line 284, in __set__
+    raise ValueError(
+ValueError: Cannot assign "'A'": "Booking.source" must be a "City" instance.
+[ERROR] [2024-03-28 02:23:45,474] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T11:59:00&duration=30 HTTP/1.1" 500 95388
+[WARNING] [2024-03-28 02:23:46,261] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:23:46,261] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:24:10,167] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:24:10,870] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:24:18,112] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:24:19,071] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:24:33,407] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:24:34,005] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:24:35,678] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:24:36,407] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:24:41,205] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:24:41,841] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:24:43,685] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:24:44,296] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:24:51,283] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T11:59:00&duration=30 HTTP/1.1" 200 35
+[ERROR] [2024-03-28 02:25:05,986] [fn: log.log_response-241] Internal Server Error: /availability
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 141, in is_available
+    prev_booking_index = bookings_lower_bound(car_bookings, pickuptime)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 120, in bookings_lower_bound
+    if bookings[0].booking_time > pickuptime:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: can't compare offset-naive and offset-aware datetimes
+[ERROR] [2024-03-28 02:25:05,994] [fn: basehttp.log_message-212] "GET /availability?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T11:59:00&duration=30 HTTP/1.1" 500 88221
+[WARNING] [2024-03-28 02:25:06,704] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:25:06,704] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:26:43,787] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:26:44,438] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:26:47,901] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:26:48,676] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:27:32,732] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:27:33,586] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:27:43,112] [fn: log.log_response-241] Internal Server Error: /availability
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 158, in is_available
+    if next_booking_index >=0 and next_booking_index < len(car_bookings) and pickuptime + duration + util_calculate_duration(dest, car_bookings[next_booking_index].destination.name) > car_bookings[next_booking_index].booking_time:
+                                                                             ~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for +: 'datetime.datetime' and 'int'
+[ERROR] [2024-03-28 02:27:43,112] [fn: basehttp.log_message-212] "GET /availability?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T11:59:00&duration=30 HTTP/1.1" 500 85531
+[WARNING] [2024-03-28 02:27:44,996] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:27:44,996] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:28:53,882] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:28:54,489] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:28:59,823] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:29:00,639] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:29:02,973] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:29:03,750] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:29:13,193] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:29:14,161] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:29:17,542] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:29:18,146] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:29:25,669] [fn: log.log_response-241] Internal Server Error: /availability
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 158, in is_available
+    if next_booking_index >=0 and next_booking_index < len(car_bookings) and pickuptime + duration + timedelta(minutes=util_calculate_duration(dest, car_bookings[next_booking_index].destination.name)) > car_bookings[next_booking_index].booking_time:
+                                                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: can't compare offset-naive and offset-aware datetimes
+[ERROR] [2024-03-28 02:29:25,669] [fn: basehttp.log_message-212] "GET /availability?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T11:59:00&duration=30 HTTP/1.1" 500 85618
+[WARNING] [2024-03-28 02:29:26,531] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:29:26,531] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:30:17,309] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:30:18,101] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:30:28,483] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:30:29,146] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:30:42,391] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:30:43,052] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 02:30:53,118] [fn: log.log_response-241] Internal Server Error: /availability
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 143, in is_available
+    prev_booking_index = bookings_lower_bound(car_bookings, pickuptime)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 121, in bookings_lower_bound
+    pickuptime = make_aware(pickuptime)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\utils\timezone.py", line 243, in make_aware
+    raise ValueError("make_aware expects a naive datetime, got %s" % value)
+ValueError: make_aware expects a naive datetime, got 2024-03-28 11:59:00+00:00
+[ERROR] [2024-03-28 02:30:53,118] [fn: basehttp.log_message-212] "GET /availability?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T11:59:00&duration=30 HTTP/1.1" 500 92735
+[WARNING] [2024-03-28 02:30:53,794] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 02:30:53,794] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 02:31:09,103] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:31:09,757] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:31:11,028] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:31:11,746] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:31:30,064] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:31:30,652] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:31:31,936] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:31:32,578] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:31:39,043] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:31:39,619] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:31:44,074] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:31:44,717] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:31:49,728] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:31:50,418] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:31:52,381] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:31:53,074] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:31:54,360] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:31:54,943] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[WARNING] [2024-03-28 02:31:59,345] [fn: log.log_response-241] Not Found: /availability
+[WARNING] [2024-03-28 02:31:59,345] [fn: basehttp.log_message-212] "GET /availability?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T11:59:00&duration=30 HTTP/1.1" 404 125
+[WARNING] [2024-03-28 02:32:40,815] [fn: log.log_response-241] Not Found: /availability
+[WARNING] [2024-03-28 02:32:40,815] [fn: basehttp.log_message-212] "GET /availability?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:10:00&duration=30 HTTP/1.1" 404 125
+[INFO] [2024-03-28 02:38:33,311] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[WARNING] [2024-03-28 02:38:36,863] [fn: log.log_response-241] Not Found: /book
+[WARNING] [2024-03-28 02:38:36,863] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:10:00&duration=30 HTTP/1.1" 404 125
+[WARNING] [2024-03-28 02:39:05,279] [fn: log.log_response-241] Not Found: /book
+[WARNING] [2024-03-28 02:39:05,279] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T13:10:00&duration=30 HTTP/1.1" 404 125
+[WARNING] [2024-03-28 02:39:53,058] [fn: log.log_response-241] Not Found: /book
+[WARNING] [2024-03-28 02:39:53,058] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T20:10:00&duration=30 HTTP/1.1" 404 125
+[INFO] [2024-03-28 02:40:32,431] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:40:33,034] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:40:45,851] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T20:10:00&duration=30 HTTP/1.1" 200 35
+[WARNING] [2024-03-28 02:41:02,988] [fn: log.log_response-241] Not Found: /book
+[WARNING] [2024-03-28 02:41:02,988] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:10:00&duration=30 HTTP/1.1" 404 109
+[INFO] [2024-03-28 02:41:24,078] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:30:00&duration=30 HTTP/1.1" 200 35
+[INFO] [2024-03-28 02:41:59,476] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T13:05:00&duration=30 HTTP/1.1" 200 35
+[INFO] [2024-03-28 02:42:46,936] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T13:06:00&duration=30 HTTP/1.1" 200 35
+[INFO] [2024-03-28 02:42:59,210] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T13:07:00&duration=30 HTTP/1.1" 200 35
+[INFO] [2024-03-28 02:44:18,286] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:44:18,957] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:44:26,122] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:44:26,863] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:44:33,285] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:44:33,951] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:44:37,424] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:44:38,681] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:51:11,233] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:51:19,414] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T13:07:00&duration=30 HTTP/1.1" 200 35
+[INFO] [2024-03-28 02:52:02,315] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:52:02,946] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:54:08,525] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T13:07:00&duration=30 HTTP/1.1" 200 35
+[INFO] [2024-03-28 02:54:13,501] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T13:07:00&duration=30 HTTP/1.1" 200 35
+[INFO] [2024-03-28 02:56:14,570] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:56:15,156] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:56:18,014] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:56:18,834] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:56:22,873] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 02:56:23,496] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:56:27,710] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T13:07:00&duration=30 HTTP/1.1" 200 36
+[INFO] [2024-03-28 02:56:58,675] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T13:07:00&duration=30 HTTP/1.1" 200 36
+[INFO] [2024-03-28 02:57:44,374] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\models.py changed, reloading.
+[INFO] [2024-03-28 02:57:44,947] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:58:30,281] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 02:58:40,447] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T13:07:00&duration=30 HTTP/1.1" 200 36
+[INFO] [2024-03-28 02:58:44,685] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T13:07:00&duration=30 HTTP/1.1" 200 36
+[INFO] [2024-03-28 03:07:45,516] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[ERROR] [2024-03-28 03:08:10,154] [fn: log.log_response-241] Internal Server Error: /book
+Traceback (most recent call last):
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 185, in book_cab
+    availibility = is_available(request)
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py", line 158, in is_available
+    print(make_aware(pickuptime) + duration + timedelta(minutes=util_calculate_duration(dest, car_bookings[next_booking_index].destination.name)))
+                                                                                              ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rohith PC\Desktop\jaya\vir\Lib\site-packages\django\db\models\query.py", line 431, in __getitem__
+    raise ValueError("Negative indexing is not supported.")
+ValueError: Negative indexing is not supported.
+[ERROR] [2024-03-28 03:08:10,154] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:00:00&duration=30 HTTP/1.1" 500 93884
+[WARNING] [2024-03-28 03:08:11,304] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 03:08:11,304] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3010
+[INFO] [2024-03-28 03:08:47,238] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 03:08:48,129] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 03:08:50,468] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 03:08:51,222] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 03:08:54,207] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 03:08:54,830] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 03:08:57,998] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:00:00&duration=30 HTTP/1.1" 200 36
+[WARNING] [2024-03-28 03:09:05,635] [fn: log.log_response-241] Not Found: /book
+[WARNING] [2024-03-28 03:09:05,635] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-28T12:00:00&duration=30 HTTP/1.1" 404 109
+[INFO] [2024-03-28 03:09:22,451] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-27T12:00:00&duration=30 HTTP/1.1" 200 36
+[WARNING] [2024-03-28 03:09:42,095] [fn: log.log_response-241] Not Found: /book
+[WARNING] [2024-03-28 03:09:42,095] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-27T12:01:00&duration=30 HTTP/1.1" 404 109
+[WARNING] [2024-03-28 03:10:01,751] [fn: log.log_response-241] Not Found: /book
+[WARNING] [2024-03-28 03:10:01,751] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-27T11:50:00&duration=30 HTTP/1.1" 404 49
+[WARNING] [2024-03-28 03:10:25,608] [fn: log.log_response-241] Not Found: /book
+[WARNING] [2024-03-28 03:10:25,608] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-27T11:30:00&duration=30 HTTP/1.1" 404 49
+[INFO] [2024-03-28 03:10:33,257] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-27T11:10:00&duration=30 HTTP/1.1" 200 36
+[WARNING] [2024-03-28 03:12:50,352] [fn: log.log_response-241] Not Found: /book
+[WARNING] [2024-03-28 03:12:50,352] [fn: basehttp.log_message-212] "GET /book?cab=MG&src=A&dest=F&email=rohith.peddi007@gmail.com&pickup_time=2024-03-27T11:11:00&duration=30 HTTP/1.1" 404 109
+[INFO] [2024-03-28 14:24:55,443] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[WARNING] [2024-03-28 14:24:59,621] [fn: log.log_response-241] Not Found: /
+[WARNING] [2024-03-28 14:24:59,623] [fn: basehttp.log_message-212] "GET / HTTP/1.1" 404 3324
+[WARNING] [2024-03-28 14:25:01,369] [fn: log.log_response-241] Not Found: /favicon.ico
+[WARNING] [2024-03-28 14:25:01,372] [fn: basehttp.log_message-212] "GET /favicon.ico HTTP/1.1" 404 3375
+[INFO] [2024-03-28 14:25:08,935] [fn: basehttp.log_message-212] "GET /bookings HTTP/1.1" 200 776
+[INFO] [2024-03-28 14:26:00,143] [fn: basehttp.log_message-212] "GET /booking/14 HTTP/1.1" 200 265
+[INFO] [2024-03-28 14:26:43,952] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\urls.py changed, reloading.
+[INFO] [2024-03-28 14:26:44,573] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 14:26:47,496] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\urls.py changed, reloading.
+[INFO] [2024-03-28 14:26:48,080] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 14:26:49,729] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\urls.py changed, reloading.
+[INFO] [2024-03-28 14:26:50,366] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 14:27:38,208] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 14:27:39,105] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 14:27:40,601] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 14:27:41,186] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 14:27:42,587] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 14:27:43,234] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 14:27:45,625] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 14:27:46,221] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 14:27:51,295] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 14:27:51,908] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 14:27:53,327] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\views.py changed, reloading.
+[INFO] [2024-03-28 14:27:53,931] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 17:11:40,980] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[WARNING] [2024-03-28 17:11:46,040] [fn: log.log_response-241] Not Found: /
+[WARNING] [2024-03-28 17:11:46,050] [fn: basehttp.log_message-212] "GET / HTTP/1.1" 404 3500
+[WARNING] [2024-03-28 17:11:56,229] [fn: log.log_response-241] Not Found: /duration/calculate
+[WARNING] [2024-03-28 17:11:56,229] [fn: basehttp.log_message-212] "GET /duration/calculate?src=A&dest=F HTTP/1.1" 404 3589
+[INFO] [2024-03-28 17:12:08,217] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=F HTTP/1.1" 200 69
+[INFO] [2024-03-28 17:12:22,356] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\utils.py changed, reloading.
+[INFO] [2024-03-28 17:12:22,995] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 17:12:24,654] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\utils.py changed, reloading.
+[INFO] [2024-03-28 17:12:25,276] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 17:12:26,898] [fn: autoreload.trigger_reload-266] C:\Users\Rohith PC\Desktop\jaya\ok\citycabbie_backend\BookingApi\utils.py changed, reloading.
+[INFO] [2024-03-28 17:12:27,621] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 17:12:30,834] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=F HTTP/1.1" 200 69
+[INFO] [2024-03-28 17:12:51,364] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=F HTTP/1.1" 200 69
+[INFO] [2024-03-28 17:12:58,856] [fn: basehttp.log_message-212] "GET /duration?src=A&dest=E HTTP/1.1" 200 64
+[INFO] [2024-03-28 17:56:46,713] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 17:56:56,889] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 17:56:56,905] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 17:56:56,936] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 17:56:57,015] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 17:59:27,623] [fn: autoreload.run_with_reloader-668] Watching for file changes with StatReloader
+[INFO] [2024-03-28 17:59:32,852] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 17:59:32,867] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 17:59:32,904] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 17:59:33,071] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:41,959] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:41,959] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:41,959] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:41,982] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:42,028] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:42,028] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:47,886] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:47,886] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:47,890] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:47,919] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:47,950] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:47,950] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:48,191] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:48,294] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:51,871] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:51,871] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:51,879] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:51,883] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:51,893] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:51,908] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:51,949] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:51,964] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:52,937] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:52,941] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:52,941] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:52,941] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:52,964] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:52,982] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:53,068] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:53,068] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:56,059] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:56,059] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:56,074] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:00:56,082] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:09,870] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:09,870] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:09,870] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:09,870] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:09,886] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:09,903] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:09,968] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:09,977] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:13,064] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:13,064] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:13,076] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:13,092] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:32,336] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:32,336] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:32,369] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:32,375] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:32,872] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:32,872] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:32,895] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:32,897] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:36,669] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:36,670] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:36,692] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:01:36,694] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:07,260] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:07,363] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:07,457] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:08,256] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:08,256] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:08,256] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:08,279] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:08,287] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:14,160] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:14,165] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:14,177] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:14,201] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:15,025] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:15,031] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:15,049] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:15,053] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:22,598] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:22,609] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:22,619] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:22,624] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:23,683] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:23,704] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:23,719] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:23,725] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:32,430] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:32,435] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:32,444] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:32,444] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:33,576] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:33,591] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:33,602] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:33,613] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:38,874] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:38,890] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:38,890] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:38,898] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:38,905] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:38,915] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:38,953] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:38,996] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:48,166] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:48,166] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:48,183] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:48,197] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:49,806] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:49,811] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:49,826] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:49,826] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:56,823] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:56,831] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:56,831] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:56,850] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:59,559] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:59,559] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:59,578] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:18:59,581] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:11,896] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:11,899] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:11,910] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:11,910] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:11,913] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:11,917] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:18,706] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:18,706] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:18,706] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:18,706] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:20,655] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:20,655] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:21,326] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:21,326] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:21,326] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:21,334] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:30,560] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:30,573] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:30,573] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:30,585] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:46,863] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:46,863] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:46,863] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:22:46,863] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:15,240] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:15,248] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:15,251] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:15,255] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:18,422] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:18,422] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:18,422] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:18,436] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:25,521] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:25,522] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:25,522] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:25,526] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:27,483] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:27,501] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:27,504] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:27,512] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:27,943] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:27,964] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:27,970] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:27,971] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:32,986] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:32,992] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:35,385] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:35,385] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:35,385] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:35,389] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:36,484] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:36,484] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:36,484] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:23:36,486] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:02,881] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:02,881] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:02,881] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:02,889] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:02,928] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:02,931] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:06,877] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:06,892] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:06,892] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:06,897] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:06,910] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:06,910] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:06,982] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:06,994] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:07,663] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:07,674] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:07,682] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:07,691] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:07,907] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:07,908] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:07,909] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:07,909] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:14,469] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:14,469] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:14,495] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:14,495] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:52,723] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:52,726] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:52,744] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:52,746] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:52,915] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:52,915] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:52,924] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:52,932] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:59,437] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:59,437] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:59,453] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:24:59,465] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:25,859] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:25,874] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:25,874] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:25,888] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:25,888] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:25,892] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:25,933] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:25,960] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:31,868] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:31,875] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:31,879] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:31,884] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:31,890] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:31,901] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:31,932] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:31,958] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:36,224] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:36,224] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:36,239] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:25:36,255] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:26:41,669] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:26:41,672] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:26:41,683] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:26:41,686] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:26:43,021] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:26:43,021] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:26:43,038] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:26:43,038] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:26:43,869] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:26:43,871] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:26:43,873] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
+[INFO] [2024-03-28 18:26:43,876] [fn: basehttp.log_message-212] "GET /cities HTTP/1.1" 200 63
